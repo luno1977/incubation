@@ -1,2 +1,2 @@
 # incubation
-quick &amp; durty implementations
+My quick &amp; durty implementations
