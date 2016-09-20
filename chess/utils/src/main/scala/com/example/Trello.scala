@@ -1,6 +1,6 @@
 package com.example
 
-object Hello {
+class Trello {
   def main(args: Array[String]): Unit = {
     println("Hello, world!")
   }
